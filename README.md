@@ -45,7 +45,7 @@ sudo -i
 
 Les scripts d'installation de Docker présent dans ce repository demanderont l'insertion de votre mot de passe utilisateur. EN AUCUN CAS ces scripts n'enregistrent ni ne transmettent vos données personnelles.
 
-## Issues
+## Issues et contributions
 
 N'hésitez pas à déposer un issue GitHub si l'un de ces scripts ne fonctionne pas correctement.
 
